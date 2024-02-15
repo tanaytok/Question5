@@ -1,0 +1,6 @@
+This created user interface has 2 windows. One is the window where we can see registered users and the other is the user adding window. We can add users to the system through the user adding window.
+
+The registered users viewing window shows the registered users in a table with their username, email and activity status information. 
+Users can be activated or deactivated. By pressing the "Hide Disabled User" button on the user table, we can hide the inactive users in the table and view only the active users. 
+and we can add users to the system by selecting the User Role. We have 3 options for user roles. These; Guest, Admin and SuperAdmin. 
+We can add an active user to the system by selecting the one we want to add from these 3 user roles, turning on the enabled button under the "User Roles" column and pressing the "Save User" button at the top right.
